@@ -14,6 +14,5 @@ area_do_terreno = largura_terreno * comprimento_terreno
 preco_do_terreno = area_do_terreno * valor_metro_quadrado
 
 
-
 print(f"Area do terreno = {area_do_terreno:.2f}")
 print(f"Preco do terreno = {preco_do_terreno:.2f}")
